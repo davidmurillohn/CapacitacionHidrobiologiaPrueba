@@ -4,8 +4,18 @@ author: "David Murillo"
 format: html
 ---
 
+::: panel-tabset
+
 ## Prueba 1
+
+No se
 
 ## Ejercicio 1
 
+Hacer tareas
+
 ## Ejercicio 2
+
+Tomar cafe
+
+:::
